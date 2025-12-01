@@ -50,7 +50,7 @@ bun run dev
 
 - [OnchainKit documentation](https://onchainkit.xyz)
 
-<br />
+<br />Jupiter
 
 ## License
 
